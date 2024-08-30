@@ -3,11 +3,11 @@ title: "Rosie Quint"
 image: 
 links:
   - label: LinkedIn
-    url: "www.linkedin.com/in/rosamund-quint-13970776"
+    url: "https://linkedin.com/in/rosamund-quint-13970776"
   - label: GitHub
     url: "https://github.com/rosiequint"
   - label: Email
-    url: "rquint1@jh.edu"
+    url: "mailto:rquint1@jh.edu"
 output:
   postcards::jolla
 ---

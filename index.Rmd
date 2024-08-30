@@ -12,4 +12,4 @@ output:
   postcards::jolla
 ---
  
-I am a first-year Master's student in Biostatistics at the Bloomberg School of Public Health, Johns Hopkins University. I am currently living in Baltimore but originally from London, England. I'm currently exploring a range of different research interests. I love hiking, music and eating good food.
+I am a first-year Master's student in Biostatistics at the Bloomberg School of Public Health, Johns Hopkins University. I am currently living in Baltimore but originally from London, England. I'm currently exploring a range of different research interests, and in my spare time I love hiking, music and trying new foods.

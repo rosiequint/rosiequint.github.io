@@ -1,19 +1,15 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Rosie Quint"
+image: 
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "www.linkedin.com/in/rosamund-quint-13970776"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/rosiequint"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "rquint1@jh.edu"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a first-year Master's student in Biostatistics at the Bloomberg School of Public Health, Johns Hopkins University. I am currently living in Baltimore but originally from London, England. I'm currently exploring a range of different research interests. I love hiking, music and eating good food.

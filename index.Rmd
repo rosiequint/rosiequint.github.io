@@ -3,7 +3,7 @@ title: "Rosie Quint"
 image: 
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/rosamund-quint-13970776"
+    url: "www.linkedin.com/in/rosie-quint"
   - label: GitHub
     url: "https://github.com/rosiequint"
   - label: Email
@@ -12,4 +12,5 @@ output:
   postcards::jolla
 ---
  
-Hello! I am a first-year Master's student in Biostatistics at the Bloomberg School of Public Health, Johns Hopkins University. I am currently living in Baltimore but originally from London, England. I'm currently exploring a range of different research interests, and in my spare time I love hiking, music and trying new foods.
+Hello! I am a second-year Master's student in Biostatistics at the Bloomberg School of Public Health, Johns Hopkins University. I am currently researching the use of cox proportional hazards models to identify protein risk and diagnosis biomarkers from the ARIC study's proteomic cohort data. 
+In my spare time I love hiking, music, and travelling. 

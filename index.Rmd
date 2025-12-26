@@ -1,6 +1,6 @@
 ---
 title: "Rosie Quint"
-image: rosie.jpg
+image: rosie.JPG
 links:
   - label: LinkedIn
     url: "www.linkedin.com/in/rosie-quint"
